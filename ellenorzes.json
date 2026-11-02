@@ -9,7 +9,7 @@
   "all_images_embedded": true,
   "source_text_preserved_except_documented_link_corrections": true,
   "all_toc_targets_present": true,
-  "output_bytes": 6622201,
+  "output_bytes": 6621213,
   "images": [
     {
       "file": "TSTK14_M0002.png",
@@ -1665,7 +1665,7 @@
     "destination_verified": "Bejelentkezett, működő LMS-felület böngészőben ellenőrizve",
     "unavailable_referenced_document": "Telepítési és üzemeltetési dokumentáció – nincs megadott forráscím"
   },
-  "html_sha256": "f5aee9732cdb4a67167a292df2cbedd25f05e935cca20bc5753878da81090dc0",
+  "html_sha256": "d8229162b7d2b0812aeb379c5ca72873d9884621aee9dfce576cdef00def95cd",
   "browser_verification_before_link_revision": {
     "rendered_images": 271,
     "broken_images": 0,

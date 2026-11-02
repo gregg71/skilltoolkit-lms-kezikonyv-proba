@@ -34,4 +34,8 @@ Forrás: SkillDict Zrt. Az eredeti tartalomhoz kapcsolódó jogok a jogosultakn�
 - A hibás „0 fejezet” utalás helyén az 1.3. fejezetre mutató link szerepel.
 - Összesen 11 szöveges fejezetutalást alakítottunk kattintható hivatkozássá.
 - Az összes, javítás után 57 belső hivatkozás létező, egyedi célra mutat.
-- A külön Telepítési és üzemeltetési dokumentáció két említéséhez a forrás nem adott címet. Ezt a hiányt a HTML végén jeleztük; nem készítettünk hozzá feltételezett linket.
+- A külön Telepítési és üzemeltetési dokumentáció két említéséhez a forrás nem adott címet. Nem készítettünk hozzá feltételezett linket.
+
+## Megjelenés egyszerűsítése
+
+A tananyag fejlécében csak a modul neve és a „Felhasználói kézikönyv” megnevezés szerepel. A készítésről és a hivatkozásjavításokról szóló megjegyzések az olvasóoldalról kikerültek.
