@@ -7,9 +7,9 @@
   "unique_source_images": 270,
   "video_files_in_source_export": 0,
   "all_images_embedded": true,
-  "source_text_preserved": true,
+  "source_text_preserved_except_documented_link_corrections": true,
   "all_toc_targets_present": true,
-  "output_bytes": 6621429,
+  "output_bytes": 6622201,
   "images": [
     {
       "file": "TSTK14_M0002.png",
@@ -1638,7 +1638,35 @@
       "sha256": "feac63cfc1038c5ac95a91b1c6a56a3a58d954b9a58d5677f7555e6a5e91dfc4"
     }
   ],
-  "browser_verification": {
+  "link_review": {
+    "date": "2026-11-02",
+    "external_links_replaced": [
+      {
+        "from": "https://eLearning.szervezet.hu/",
+        "to": "https://kurzusok.oh.gov.hu/WEB.LMS/"
+      },
+      {
+        "from": "https://eLearning.szervezet.hu/WEB.LMS/",
+        "to": "https://kurzusok.oh.gov.hu/WEB.LMS/"
+      },
+      {
+        "from": "https://eLearning.szervezet.hu/",
+        "to": "https://kurzusok.oh.gov.hu/WEB.LMS/"
+      },
+      {
+        "from": "https://eLearning.szervezet.hu/WEB.LMS/",
+        "to": "https://kurzusok.oh.gov.hu/WEB.LMS/"
+      }
+    ],
+    "chapter_references_linked": 11,
+    "internal_links_checked": 57,
+    "broken_internal_links": 0,
+    "external_destination": "https://kurzusok.oh.gov.hu/WEB.LMS/",
+    "destination_verified": "Bejelentkezett, működő LMS-felület böngészőben ellenőrizve",
+    "unavailable_referenced_document": "Telepítési és üzemeltetési dokumentáció – nincs megadott forráscím"
+  },
+  "html_sha256": "f5aee9732cdb4a67167a292df2cbedd25f05e935cca20bc5753878da81090dc0",
+  "browser_verification_before_link_revision": {
     "rendered_images": 271,
     "broken_images": 0,
     "external_resources": 0,
@@ -1647,6 +1675,5 @@
     "chapter_jump": "TSTK14_TJ_5_3; top 30.34px",
     "zoom_image": "TSTK14_M0144.png; dialog open and image loaded; close tested",
     "file_protocol_test": "blocked by browser policy"
-  },
-  "html_sha256": "de8c1063718519846066cc393c451639c752dc532607f37e2ef875e5c3fe03d1"
+  }
 }
